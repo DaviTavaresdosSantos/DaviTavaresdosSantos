@@ -1,7 +1,7 @@
 ## Ola!!!Sou Davi Tavares, programador em desenvolvimento <h2>
 #### Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos em python. Segue lá no [instagram](https://instagram.com/davi_tavares_oficial)
 
-!(https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+
 
 
 <!--
