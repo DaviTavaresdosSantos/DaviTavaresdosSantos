@@ -1,6 +1,6 @@
-## Ola!!!Sou Davi Tavares <h2>
-#### aluno do curso técnico em informática do IFRO, estudo a língua python 
-#### finalizando o curso de TI, farei faculdade de engenharia de software 
+## Ola!!!Sou Davi Tavares, programador em desenvolvimento de python <h2>
+#### aluno do curso técnico em informática do IFRO, Segue la nas redes vizinhas
+
 
 <!--
 **DaviTavaresdosSantos/DaviTavaresdosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
