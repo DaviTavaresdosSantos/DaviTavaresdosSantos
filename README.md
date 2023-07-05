@@ -1,5 +1,5 @@
-## Ola!!!Sou Davi Tavares, programador em desenvolvimento de python <h2>
-#### Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos.
+## Ola!!!Sou Davi Tavares, programador em desenvolvimento <h2>
+#### Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos em python.
 
 
 <!--
