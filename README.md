@@ -1,4 +1,12 @@
-## Hi there 👋
+Ola!!!Sou Davi Tavares, programador em desenvolvimento <h2>
+#### Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos em python. Segue lá no [instagram](https://instagram.com/davi_tavares_oficial)😁
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
 
 <!--
 **DaviTavaresdosSantos/DaviTavaresdosSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
