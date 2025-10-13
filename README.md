@@ -1,5 +1,5 @@
 <h2>Ola!!!Sou Davi Tavares, programador em desenvolvimento </h2>
-#### Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos em python. Segue lá no <a href = "https://instagram.com/davi_tavares_oficial">[instagram]</a>
+Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos em python. Segue lá no <a href = "https://instagram.com/davi_tavares_oficial">[instagram]</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
