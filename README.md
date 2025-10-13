@@ -1,11 +1,12 @@
-Ola!!!Sou Davi Tavares, programador em desenvolvimento <h2>
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a7f2aaaf-a487-4b60-af79-a3cef85c098d" /><img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/4f05c0cd-97d5-4ca1-8dac-b7e25a930df0" />Ola!!!Sou Davi Tavares, programador em desenvolvimento <h2>
 #### Sou aluno do curso Tecnico em informatica do IFRO, esse perfil servirá para salvar meus projetos em python. Segue lá no [instagram](https://instagram.com/davi_tavares_oficial)😁
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="![Uploading image.png…]()
+">
 </div>
 
 
